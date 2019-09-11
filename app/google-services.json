@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41051184540",
+    "firebase_url": "https://primeirospassos-b989d.firebaseio.com",
+    "project_id": "primeirospassos-b989d",
+    "storage_bucket": "primeirospassos-b989d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41051184540:android:61b10d500d4dba7afafc59",
+        "android_client_info": {
+          "package_name": "com.example.paulogsnapolitano.firebaseprimeirospassos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41051184540-pvksmauloca0h5fovr11smkjf1irsv79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paulogsnapolitano.firebaseprimeirospassos",
+            "certificate_hash": "9660f01baf85f2959f30dde22848e160df826c65"
+          }
+        },
+        {
+          "client_id": "41051184540-uvja62lvqrtiulshlv070efnpsr5vegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kKUGSeG84KqYmC78zqVn4nRcYWstRBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41051184540-uvja62lvqrtiulshlv070efnpsr5vegm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
